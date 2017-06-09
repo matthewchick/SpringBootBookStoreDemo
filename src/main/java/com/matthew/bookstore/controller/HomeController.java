@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by matthewchik on 8/6/2017.
+ * Created by matthewchick on 8/6/2017.
  */
 
 //https://www.genuitec.com/spring-frameworkrestcontroller-vs-controller/
