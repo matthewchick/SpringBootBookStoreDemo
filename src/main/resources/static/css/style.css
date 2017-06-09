@@ -1,6 +1,6 @@
 body {
-    padding-top: 20px;
-    padding-bottom: 20px;
+   /* padding-top: 20px;
+    padding-bottom: 20px; */
 }
 
 .navbar {
@@ -9,4 +9,15 @@ body {
 
 .box {
     border: 1px solid red;
+}
+
+.container {
+    width: 90%;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: #333333;
+    background-color: #333333;
 }
